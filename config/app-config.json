@@ -82,7 +82,7 @@
     {
       "name": "PACKETSTREAM",
       "dashboard": "https://packetstream.io/dashboard",
-      "link": "https://packetstream.io/?psr=3zSD",
+      "link": "https://packetstream.io/?psr=vPS",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_packetstream",
         "hostname": "${DEVICE_NAME}_packetstream",
@@ -104,7 +104,7 @@
     {
       "name": "TRAFFMONETIZER",
       "dashboard": "https://app.traffmonetizer.com/dashboard",
-      "link": "https://traffmonetizer.com/?aff=366499",
+      "link": "https://traffmonetizer.com/?aff=280746",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_traffmonetizer",
         "hostname": "${DEVICE_NAME}_traffmonetizer",
@@ -127,7 +127,7 @@
     {
       "name": "REPOCKET",
       "dashboard": "https://app.repocket.co/#home",
-      "link": "https://link.repocket.co/hr8i",
+      "link": "https://link.repocket.com/TPiy",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_repocket",
         "hostname": "${DEVICE_NAME}_repocket",
@@ -153,7 +153,7 @@
     {
       "name": "EARNFM",
       "dashboard": "https://app.earn.fm/",
-      "link": "https://earn.fm/ref/MATTTAV6",
+      "link": "https://earn.fm/ref/MARI9NMX",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_earnfm",
         "hostname": "${DEVICE_NAME}_earnfm",
@@ -227,7 +227,7 @@
     {
       "name": "BITPING",
       "dashboard": "https://app.bitping.com/earnings",
-      "link": "https://app.bitping.com?r=qm7mIuX3",
+      "link": "https://app.bitping.com",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_bitping",
         "hostname": "${DEVICE_NAME}_bitping",
@@ -254,7 +254,7 @@
     {
       "name": "SPEEDSHARE",
       "dashboard": "https://dashboard.speedshare.app/",
-      "link": "https://speedshare.app/?ref=mindlessnerd",
+      "link": "https://speedshare.app/?ref=marin",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_speedshare",
         "hostname": "${DEVICE_NAME}_speedshare",
@@ -309,7 +309,7 @@
     {
       "name": "GRADIENT",
       "dashboard": "https://app.gradient.network/dashboard",
-      "link": "https://app.gradient.network/signup?code=2WEG9X",
+      "link": "https://app.gradient.network/signup?code=DD5SE8",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_gradient",
         "hostname": "${DEVICE_NAME}_gradient",
@@ -335,7 +335,7 @@
     {
       "name": "PACKETSHARE",
       "dashboard": "https://packetshare.io/ucenter.html",
-      "link": "https://www.packetshare.io/?code=A260871CFD822E35",
+      "link": "https://packetstream.io/?psr=vPS",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_packetshare",
         "hostname": "${DEVICE_NAME}_packetshare",
@@ -392,7 +392,7 @@
     {
       "name": "PEER2PROFIT",
       "dashboard": "https://t.me/peer2profit_app_bot",
-      "link": "https://t.me/peer2profit_app_bot?start=165849012262da8d0aa13c8",
+      "link": "https://t.me/peer2profit_app_bot?start=165478003262a1f0801ea04",
       "compose_config": {
         "container_name": "${DEVICE_NAME}_peer2profit",
         "hostname": "${DEVICE_NAME}_peer2profit",
