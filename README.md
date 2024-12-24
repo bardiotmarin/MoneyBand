@@ -1,7 +1,7 @@
 
-# MultyBand
+# MoneyBand
 
-<img  src="./.resources/.assets/M4B_logo_small.png?raw=true"  width="96"> - **Leave a star ⭐ if you like this project 🙂 thank you.**
+ - **Leave a star ⭐ if you like this project 🙂 thank you.**
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/bardiotmarin/MultyBand/release-on-tag.yml?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fbardiotmarin%2FMultyBand)
 
@@ -29,7 +29,7 @@
 
   
 
-🌐 For a detailed overview and FAQ, visit the [Wiki](https://github.com/bardiotmarin/MULTYBAND/wiki) or join our [Discord Community](#-join-the-MultyBand-community-on-discord).
+🌐 For a detailed overview and FAQ, visit the [Wiki](https://github.com/bardiotmarin/MULTYBAND/wiki) ( soon) .
 
   
 
@@ -224,7 +224,7 @@ This Docker Stack should work on anything that may have docker installed. In par
 
 ## Need Help or Found an Issue? ❓
 
-- For discussions, info, and feature requests, use the [Discussion tab](https://github.com/bardiotmarin/MULTYBAND/discussions) or join our [Discord Community](#-join-the-MultyBand-community-on-discord).
+- For discussions, info, and feature requests, use the [Discussion tab](https://github.com/bardiotmarin/MULTYBAND/discussions)
 
 - F.A.Q., Alternatve Manual Setup, How To Update, other useful guides and more details inside the [Wiki](https://github.com/bardiotmarin/MULTYBAND/wiki)
 
@@ -232,13 +232,7 @@ This Docker Stack should work on anything that may have docker installed. In par
 
 - For issues and bug reporting, use the [Issue tab](https://github.com/bardiotmarin/MULTYBAND/issues).
 
-  
 
-## 🚀 Join the MultyBand Community on Discord!
-
-Join our Discord server! It's a space for you to share your experiences, ask questions, and discuss everything related to MultyBand and its related projects like custom docker images created for M4B and so on.
-
-[Join the MultyBand Discord Community](https://discord.com/invite/Fq8eeazBAD)
 
   
 
@@ -254,15 +248,13 @@ Your contributions are vital in helping to sustain the development of open-sourc
 
   
 
--  **Bitcoin (BTC):**  `1EzBrKjKyXzxydSUNagAP8XLeRzBTxfHcg`
+-  **Bitcoin (BTC):**  `bc1q2rhag5upk2wa9nkjm5tw0rp6ulhrf7ccm8zk4t`
 
 -  **Ethereum (ETH):**  `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
 
--  **Solana (SOL):**  `6kUAWW8q5169qnUJdxxLsNMPpaKPvbUSmryKDYTb9epn`
+-  **Polygon (MATIC):**  `0x488EC95186f66ED42E9b9c04CadD8D5feaA6A9fE`
 
--  **Polygon (MATIC):**  `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
-
--  **BNB (Binance Smart Chain):**  `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
+-  **BNB (Binance Smart Chain):**  `0x488ec95186f66ed42e9b9c04cadd8d5feaa6a9fe`
 
   
 
