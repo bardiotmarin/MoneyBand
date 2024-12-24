@@ -29,7 +29,7 @@
 
   
 
-🌐 For a detailed overview and FAQ, visit the [Wiki](https://github.com/bardiotmarin/MULTYBAND/wiki) or join our [Discord Community](#-join-the-MultyBand-community-on-discord).
+🌐 For a detailed overview and FAQ, visit the [Wiki](https://github.com/bardiotmarin/MULTYBAND/wiki) ( soon) .
 
   
 
