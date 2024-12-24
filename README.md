@@ -254,15 +254,13 @@ Your contributions are vital in helping to sustain the development of open-sourc
 
   
 
--  **Bitcoin (BTC):**  `1EzBrKjKyXzxydSUNagAP8XLeRzBTxfHcg`
+-  **Bitcoin (BTC):**  `bc1q2rhag5upk2wa9nkjm5tw0rp6ulhrf7ccm8zk4t`
 
 -  **Ethereum (ETH):**  `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
 
--  **Solana (SOL):**  `6kUAWW8q5169qnUJdxxLsNMPpaKPvbUSmryKDYTb9epn`
+-  **Polygon (MATIC):**  `0x488EC95186f66ED42E9b9c04CadD8D5feaA6A9fE`
 
--  **Polygon (MATIC):**  `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
-
--  **BNB (Binance Smart Chain):**  `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee`
+-  **BNB (Binance Smart Chain):**  `0x488ec95186f66ed42e9b9c04cadd8d5feaa6a9fe`
 
   
 
