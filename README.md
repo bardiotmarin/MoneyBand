@@ -1,5 +1,5 @@
 
-# MultyBand
+# MoneyBand
 
  - **Leave a star ⭐ if you like this project 🙂 thank you.**
 
@@ -224,7 +224,7 @@ This Docker Stack should work on anything that may have docker installed. In par
 
 ## Need Help or Found an Issue? ❓
 
-- For discussions, info, and feature requests, use the [Discussion tab](https://github.com/bardiotmarin/MULTYBAND/discussions) or join our [Discord Community](#-join-the-MultyBand-community-on-discord).
+- For discussions, info, and feature requests, use the [Discussion tab](https://github.com/bardiotmarin/MULTYBAND/discussions)
 
 - F.A.Q., Alternatve Manual Setup, How To Update, other useful guides and more details inside the [Wiki](https://github.com/bardiotmarin/MULTYBAND/wiki)
 
@@ -232,13 +232,7 @@ This Docker Stack should work on anything that may have docker installed. In par
 
 - For issues and bug reporting, use the [Issue tab](https://github.com/bardiotmarin/MULTYBAND/issues).
 
-  
 
-## 🚀 Join the MultyBand Community on Discord!
-
-Join our Discord server! It's a space for you to share your experiences, ask questions, and discuss everything related to MultyBand and its related projects like custom docker images created for M4B and so on.
-
-[Join the MultyBand Discord Community](https://discord.com/invite/Fq8eeazBAD)
 
   
 
