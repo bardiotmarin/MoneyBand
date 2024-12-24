@@ -1,7 +1,7 @@
 
 # MultyBand
 
-<img  src="./.resources/.assets/M4B_logo_small.png?raw=true"  width="96"> - **Leave a star ⭐ if you like this project 🙂 thank you.**
+ - **Leave a star ⭐ if you like this project 🙂 thank you.**
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/bardiotmarin/MultyBand/release-on-tag.yml?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fbardiotmarin%2FMultyBand)
 
