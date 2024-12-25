@@ -1,6 +1,6 @@
 #######################################################################
 # File name : docker-compose.yaml
-# Author : MRColor
+# Author : Mbardiot
 # This Docker-compose file use data from .env file
 #######################################################################
 
